@@ -1,0 +1,53 @@
+/* le asigne clases a las etiquetas html*/
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.titulo{
+    text-align: center;
+    background-color: lightpink;
+    
+}
+
+ul {
+    text-align: left;
+    margin: 16px;
+}
+
+body {
+font-family: system-ui, sans-serif;
+background-color: oldlace;
+}
+
+header {
+    margin: 30px 50px;
+    padding: 16px;
+    border-radius: 16px;
+    width: 100%;
+    height: 100%;
+}
+
+main {
+    padding: 16px;
+    width: 100%;
+}
+
+p {
+    margin: 20px;
+    font-size: 1.2rem;
+    font-family: arial;
+    text-align: justify;
+}
+
+aside {
+    margin: 20px;
+}
+
+.piedepagina{
+    background-color: gainsboro;
+    width: 100%;
+    height: 100%;
+    margin: 20px;
+}
